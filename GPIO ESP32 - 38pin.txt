@@ -1,0 +1,34 @@
+GPIO06 - não usar
+GPIO07 - não usar
+GPIO08 - não usar
+GPIO15 - ok
+GPIO02 - ok
+GPIO00 - ok
+GPIO04 - ok
+GPIO16 - ok
+GPIO17 - ok
+GPIO05 - ok
+GPIO18 - ok
+GPIO19 - ok
+GPIO21 - ok
+GPIO03 - ok
+GPIO01 - ok  Led
+GPIO22 - ok
+GPIO23 - ok
+
+
+GPIO11 - não usar
+GPIO10 - não usar
+GPIO09 - não usar
+GPIO13 - ok
+GPIO12 - ok
+GPIO14 - ok
+GPIO27 - ok
+GPIO26 - ok
+GPIO25 - ok
+GPIO33 - ok
+GPIO32 - ok
+GPIO35 - não usar
+GPIO34 - não usar
+GPIO39 - não usar
+GPIO36 - não usar
